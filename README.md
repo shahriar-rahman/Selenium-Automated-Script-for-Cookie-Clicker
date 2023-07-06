@@ -2,10 +2,10 @@
 A Selenium Webdriver script for automating clicks in the Cookie Clicker web application. 
 
 ## Objective
-Currently, the script can automate clicks and auto-purchase "cursor" and "Grandma" once the options are unlocked. Since the game can be quite long, this is still a work in progress.
+Currently, the script can automate clicks and auto-purchase "cursor" and "Grandma" once the options are unlocked. Since the game can be quite long in terms of upgrades and efficient decision-making, this script is still a work in progress.
 
 <div align="center">
-    <img width="85%%" src="img/cookieclicker.jpeg" alt="cookie.jpeg" >
+    <img width="80%%" src="img/cookieclicker.jpeg" alt="cookie.jpeg" >
 </div>
 
 ## About
@@ -14,6 +14,10 @@ The *Cookie Clicker* is a 2013 incremental game developed by Julien "Orteil" Thi
 ## Modules and Tools used:
 * python 3.11
 * selenium 4.8.3
+
+<div align="center">
+    <img width="70%%" src="img/selenium.jpg" alt="selenium.jpg" >
+</div>
 
 ## Installation (using pip)
 In order to *install* selenium on the local machine, follow these steps:
