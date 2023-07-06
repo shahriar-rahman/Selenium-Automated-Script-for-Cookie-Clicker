@@ -16,7 +16,7 @@ The *Cookie Clicker* is a 2013 incremental game developed by Julien "Orteil" Thi
 * selenium 4.8.3
 
 <div align="center">
-    <img width="70%%" src="img/selenium.jpg" alt="selenium.jpg" >
+    <img width="80%%" src="img/selenium.jpg" alt="selenium.jpg" >
 </div>
 
 ## Installation (using pip)
