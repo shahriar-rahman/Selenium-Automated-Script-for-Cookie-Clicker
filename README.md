@@ -2,7 +2,7 @@
 A Selenium Webdriver script for automating clicks in the Cookie Clicker web application. 
 
 ## Objective
-Currently, the script can automate clicks and auto-purchase "cursor" and "Grandma" once the options are unlocked. Since the game can be quite long, this is still a work in progress.
+Currently, the script can automate clicks and auto-purchase "cursor" and "Grandma" once the options are unlocked. Since the game can be quite long in terms of upgrades and efficient decision-making, this script is still a work in progress.
 
 <div align="center">
     <img width="80%%" src="img/cookieclicker.jpeg" alt="cookie.jpeg" >
