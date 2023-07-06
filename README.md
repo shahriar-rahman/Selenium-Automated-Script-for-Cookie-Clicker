@@ -4,12 +4,12 @@ A Selenium Webdriver script for automating clicks in the Cookie Clicker web appl
 ## Objective
 Currently, the script can automate clicks and auto-purchase "cursor" and "Grandma" once the options are unlocked. Since the game can be quite long, this is still a work in progress.
 
-## About
-The *Cookie Clicker* is a 2013 incremental game developed by Julien "Orteil" Thiennot, a French programmer who wrote the script in a single evening. The user initially clicks on a big cookie on the screen that earns a single cookie with each click, which can be used to purchase tools such as "cursors" and other "buildings" that would automatically produce cookies. There are several upgrades that are also available once a certain threshold is reached, which can be done by first manually clicking the "Cookie". The player can later improve the efficiency of clicks and buildings, among many other mechanics that allow the user to earn cookies in a myriad of ways.
-
 <div align="center">
     <img width="85%%" src="img/cookieclicker.jpeg" alt="cookie.jpeg" >
 </div>
+
+## About
+The *Cookie Clicker* is a 2013 incremental game developed by Julien "Orteil" Thiennot, a French programmer who wrote the script in a single evening. The user initially clicks on a big cookie on the screen that earns a single cookie with each click, which can be used to purchase tools such as "cursors" and other "buildings" that would automatically produce cookies. There are several upgrades that are also available once a certain threshold is reached, which can be done by first manually clicking the "Cookie". The player can later improve the efficiency of clicks and buildings, among many other mechanics that allow the user to earn cookies in a myriad of ways.
 
 ## Modules and Tools used:
 * python 3.11
