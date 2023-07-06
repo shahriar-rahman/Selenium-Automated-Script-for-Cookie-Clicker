@@ -28,7 +28,7 @@ In order to *install* selenium on the local machine, follow these steps:
 3. Alternately, it can be downloaded from the primary distribution source [PyPI](https://pypi.org/project/selenium/#files),
 unarchive it, and run:
 ```
-> python setup.py install                                                                                                        
+> python setup.py install                                                             
 ```
 
 For more information, check out the following sites:
