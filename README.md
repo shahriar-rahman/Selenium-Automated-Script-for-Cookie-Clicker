@@ -23,10 +23,13 @@ The *Cookie Clicker* is a 2013 incremental game developed by Julien "Orteil" Thi
 In order to *install* selenium on the local machine, follow these steps:
 1. Open pip and type "
 ```
-> pip install selenium                                                                  
+> pip install selenium                                                                                                                                                                                           
 ```
 3. Alternately, it can be downloaded from the primary distribution source [PyPI](https://pypi.org/project/selenium/#files),
-unarchive it, and run: "python setup.py install"
+unarchive it, and run:
+```
+> python setup.py install                                                                                                                                                                                        
+```
 
 For more information, check out the following sites:
 * https://pypi.org/project/selenium/
