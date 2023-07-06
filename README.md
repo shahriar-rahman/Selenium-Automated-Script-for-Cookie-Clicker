@@ -1,33 +1,26 @@
-# **Scraping Quotes Using Beautiful Soup**
-A clean and simple script for scraping and storing web-scraping data for beginners using the Beautiful Soup library.  
-
-<div align="center">
-    <img width="85%%" src="img/bs4logo.JPG" alt="bs4.jpg" >
-</div>
-
-## Introduction
-The *Beautiful Soup (bs4)* is a Python library for fetching web data out of HTML and XML scripts. It functions with a specific set of parsers to provide idiomatic ways of navigating through the DOM structure, searching, and modifying the parse tree.
+# **Selenium Automated Script for Cookie Clicker**
+A Selenium Webdriver script for automating clicks in the Cookie Clicker web application. 
 
 ## Objective
-The primary objective is to illustrate an example of a simple *bs4* script from the site https://quotes.toscrape.com/. In this project, Beautiful Soup and Pandas libraries are utilized to extract the data and store it in memory respectively.
+Currently, the script can automate clicks and auto-purchase "cursor" and "Grandma" once the options are unlocked. Since the game can be quite long, this is still a work in progress.
 
-## A simple illustration of the process involved 
+## About
+The *Cookie Clicker* is a 2013 incremental game developed by Julien "Orteil" Thiennot, a French programmer who wrote the script in a single evening. The user initially clicks on a big cookie on the screen that earns a single cookie with each click, which can be used to purchase tools such as "cursors" and other "buildings" that would automatically produce cookies. There are several upgrades that are also available once a certain threshold is reached, which can be done by first manually clicking the "Cookie". The player can later improve the efficiency of clicks and buildings, among many other mechanics that allow the user to earn cookies in a myriad of ways.
+
 <div align="center">
-    <img width="85%%" src="img/illustration.jpg" alt="bs4.jpg" >
+    <img width="85%%" src="img/cookieclicker.jpeg" alt="cookie.jpeg" >
 </div>
 
 ## Modules and Tools used:
-* beautifulsoup4 4.12.2
-* pandas 2.0.0
 * python 3.11
-* PyCharm IDE (2023.1)
+* selenium 4.8.3
 
 ## Installation (using pip)
-In order to *install* bs4 on the local machine, follow these steps:
-1. Open pip and type "pip install beautifulsoup4".
-2. To install the Pandas Library, type "pip install pandas".
-3. Then, inside the IDE, import the libraries by typing "from bs4 import BeautifulSoup", and on the next line "import pandas" to successfully load the packages to be used for any project.
+In order to *install* selenium on the local machine, follow these steps:
+1. Open pip and type "pip install selenium".
+2. Alternately, it can be downloaded from the primary distribution source [PyPI](https://pypi.org/project/selenium/#files),
+unarchive it, and run: "python setup.py install"
 
 For more information, check out the following sites:
-* https://pypi.org/project/beautifulsoup4/
-* https://pypi.org/project/pandas/
+* https://pypi.org/project/selenium/
+* https://orteil.dashnet.org/cookieclicker/
